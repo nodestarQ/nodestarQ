@@ -7,8 +7,8 @@ Currently working on [warpToad](https://warptoad.org), focused on making blockch
 I also build tools for agent workflows and interface understanding.
 
 ## Building
-- [WarpToad](https://warptoad.org) — cross-chain privacy infrastructure
-- [annotaKit](https://annotakit.dev) — agent-ready UI annotation for Svelte apps
+- [WarpToad](https://warptoad.org): cross-chain privacy infrastructure
+- [annotaKit](https://annotakit.dev): agent-ready UI annotation for Svelte apps
 
 Also exploring experimental onchain products through [abashoverse](https://abashoverse.com).
 
