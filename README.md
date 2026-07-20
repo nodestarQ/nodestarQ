@@ -1,32 +1,12 @@
-## Hey, I'm nodestarQ 👋
+## Helol
 
 Software engineer building privacy infrastructure and crypto-native developer tools.
 
-Currently working on [warpToad](https://warptoad.org), focused on making blockchain interactions more private, composable, and usable across chains.
-
-I also build tools for agent workflows and interface understanding.
-
-## Building
-- [WarpToad](https://warptoad.org): cross-chain privacy infrastructure
-- [annotaKit](https://annotakit.dev): agent-ready UI annotation for Svelte apps
+Currently working on [warpToad](https://warptoad.org), focused on making blockchain interactions more private, composable, and usable across chains! :D
 
 Also exploring experimental onchain products through [abashoverse](https://abashoverse.com).
 
 ## Open to
-- interesting privacy infra conversations
-- collaborations on crypto developer tooling
+- interesting conversations about cryptography
+- collaborations on crypto developer tooling, on-chain art or some other exciting new project
 - weird but technically serious experiments
-<!--
-**nodestarQ/nodestarQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
