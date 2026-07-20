@@ -12,9 +12,6 @@ I also build tools for agent workflows and interface understanding.
 
 Also exploring experimental onchain products through [abashoverse](https://abashoverse.com).
 
-## GitHub Stats
-![nodestarQ's Github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=nodestarQ&show_icons=true&line_height=27&include_all_commits=true)
-
 ## Open to
 - interesting privacy infra conversations
 - collaborations on crypto developer tooling
